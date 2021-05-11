@@ -1,4 +1,4 @@
-# Generative-Deep-Learning
+# Generative Deep Learning
 
 Written by Steve Ive
 
